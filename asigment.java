@@ -1,4 +1,4 @@
-public class Test {
+public class asigment {
     public static void main(String[] args) {
         double celsius = 43; 
 
@@ -7,3 +7,4 @@ public class Test {
         System.out.println(celsius + " Celsius is " + fahrenheit + " Fahrenheit");
     }
 }
+
